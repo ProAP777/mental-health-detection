@@ -7,6 +7,5 @@ librosa
 matplotlib
 seaborn
 streamlit
-joblib          
-pickle5         
+joblib                 
 scipy
