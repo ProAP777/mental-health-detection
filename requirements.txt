@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+tensorflow      
+keras          
+librosa
+matplotlib
+seaborn
+streamlit
+joblib          
+pickle5         
+scipy
